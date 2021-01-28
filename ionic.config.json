@@ -1,0 +1,7 @@
+{
+  "name": "alumnos-firebase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
